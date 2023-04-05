@@ -1,19 +1,41 @@
-p {
-    font-size: 30pt;
-    color:fuchsia;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif}
-
-h1 {
-    font-size: 10px;
-}
-
-body {
+main {
+    margin: 0px;
+    padding: top 50px;
+    ;
     background-color: plum;
 }
 
-button {
-    font-size: 10pt;
-    width: 200px;
-    border-radius: 3px;
-    background: ;
+header {
+    padding: 5px 50px;
+}
+
+h1 {
+    float: inline-start;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: paleturquoise;
+}
+
+body {
+    background-color: thistle;
+
+}
+
+nav {
+    float: inline-start;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: paleturquoise;
+}
+
+index.html ul {
+    font-size: 20pt;
+    text-align: center;
+    font-family: cursive;
+}
+
+p {
+    font-size: 20pt;
+    text-align: center;
+    font-family: cursive;
 }
