@@ -8,13 +8,14 @@ main {
 }
 
 body {
+    justify-content: center;
     background-color: thistle;
 }
 
 ol {
     text-align: center;
     font-size: 30px;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: hotpink;
 }
 
