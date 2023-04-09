@@ -42,8 +42,7 @@ html ul {
 
 p {
     font-size: 10pt;
-    text-align: center;
-    font-family: monospace
+    font-family: monospace;
 }
 
 li {
@@ -53,13 +52,8 @@ li {
 }
 
 section {
-    margin: 1;
-    padding: 2px 4px 6px;
+    margin: 0;
+    padding: 2px 4px;
+    border-style: solid;
     box-sizing: border-box;
-}
-
-.paragraphs {
-    display: flex;
-    text-align: right;
-    flex-wrap: wrap;
 }
