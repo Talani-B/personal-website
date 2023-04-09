@@ -18,6 +18,7 @@ ol {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: hotpink;
 }
+
 h1 {
     text-align: center;
     font-size: 20px;
@@ -40,7 +41,25 @@ html ul {
 }
 
 p {
-    font-size: 20pt;
+    font-size: 10pt;
     text-align: center;
-    font-family: cursive;
+    font-family: monospace
+}
+
+li {
+    font-size: 10px;
+    font-family: monospace;
+    text-align: left;
+}
+
+section {
+    margin: 1;
+    padding: 2px 4px 6px;
+    box-sizing: border-box;
+}
+
+.paragraphs {
+    display: flex;
+    text-align: right;
+    flex-wrap: wrap;
 }
