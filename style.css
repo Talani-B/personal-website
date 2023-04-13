@@ -65,10 +65,10 @@ form {
 input,
 button {
     width: 100px;
-    height: 40px;
+    height: 20px;
     font-size: 15px;
 }
 
 button {
-    width: 15px;
+    width: 60px;
 }
