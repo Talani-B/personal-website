@@ -72,3 +72,13 @@ button {
 button {
     width: 60px;
 }
+
+footer {
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+    padding: 10px 100px;
+    border-style: groove;
+    box-sizing: border-box;
+    background-color: hotpink;
+}
