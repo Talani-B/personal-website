@@ -38,8 +38,7 @@ html ul {
     text-align: center;
     font-family: monospace;
 }
-img{display: flex;
-    float:inherit}
+
 p {
     font-size: 10pt;
     font-family: monospace;
@@ -80,6 +79,7 @@ textarea{
     width: 50%;
     font-size: 15px;
     padding: 16px 16px;
+
     margin-bottom: 25px;
     font-family:monospace ;
 
