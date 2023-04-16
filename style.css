@@ -38,7 +38,8 @@ html ul {
     text-align: center;
     font-family: monospace;
 }
-
+img{display: flex;
+    float:inherit}
 p {
     font-size: 10pt;
     font-family: monospace;
